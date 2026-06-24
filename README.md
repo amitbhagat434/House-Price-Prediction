@@ -35,6 +35,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 jupyter notebook House_Price_Prediction_using_Linear_Regression.ipynb
 ```
 
-## 📁 Files
+## Files
 - `House_Price_Prediction_using_Linear_Regression.ipynb` – Main notebook
 - `House_Price_Prediction_Dataset.csv` – Dataset
